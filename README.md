@@ -1,2 +1,1 @@
-# join-bsr
-Bsr Whatsapp
+# aramex
